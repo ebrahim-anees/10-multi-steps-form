@@ -1,0 +1,49 @@
+h1 {
+  font-size: 30px;
+  color: hsl(213, 96%, 18%);
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 15px;
+  color: hsl(231, 11%, 63%);
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+@media (min-width: 768px) {
+  h2 {
+    margin-bottom: 30px;
+  }
+}
+
+h3 {
+  font-size: 20px;
+  color: hsl(229, 24%, 87%);
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+h4 {
+  font-size: 25px;
+  color: hsl(0, 0%, 100%);
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  height: 100vh;
+}
+
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+
+body {
+  background-color: hsl(217, 100%, 97%);
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,26 @@
+[
+  {
+    "step": 1,
+    "navTitle": "your info",
+    "stepTitle": "Personal info",
+    "stepSubtitle": "Please provide your name, email-address, and phone number."
+  },
+  {
+    "step": 2,
+    "navTitle": "select plan",
+    "stepTitle": "Select your plan",
+    "stepSubtitle": "You have the option of monthly or yearly billing."
+  },
+  {
+    "step": 3,
+    "navTitle": "add-ons",
+    "stepTitle": "Pick add-ons",
+    "stepSubtitle": "Add-ons help enhance your gaming experience."
+  },
+  {
+    "step": 4,
+    "navTitle": "summary",
+    "stepTitle": "Finishing up",
+    "stepSubtitle": "Double-check everything looks OK before confirming."
+  }
+]
